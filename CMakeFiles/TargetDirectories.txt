@@ -1,0 +1,3 @@
+/misdatos/CMakeFiles/my-recognition.dir
+/misdatos/CMakeFiles/edit_cache.dir
+/misdatos/CMakeFiles/rebuild_cache.dir
